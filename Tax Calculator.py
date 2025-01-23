@@ -1,6 +1,5 @@
 #Tax calculator using if function
 print("Welcome to your tax calculator")
-
 while True:
     try:
         gross = float(input("How much money do you earn gross?"))
