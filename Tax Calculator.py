@@ -26,5 +26,3 @@ elif gross < 4000:
     print(f"Your net salary is {gross - (gross * (0.14-child*0.005))}")
 else:
     print(f"Your net salary is {gross - (gross * (0.18-child*0.005))}")
-
-
